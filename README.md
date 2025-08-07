@@ -1,4 +1,4 @@
-## Learning Java and Python 
+## Learning JavaScript and Kaboom.js
 ![Header](./github-header-image.png)
 
 - 🌱 I’m currently learning GUI in Netbeans...
